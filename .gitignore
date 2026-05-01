@@ -1,0 +1,18 @@
+# Claude / agent context — local-only, not for git
+.claude/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Common build / dep folders
+node_modules/
+dist/
+build/
+.cache/
+*.log
+.env
+.env.local
